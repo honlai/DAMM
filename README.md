@@ -64,6 +64,16 @@ Output:
   └── Generated answer token sequence
 ```
 
+## Dataset
+
+We use [LLaVA 150K](https://github.com/haotian-liu/LLaVA) dataset: a large-scale instruction-following VQA dataset with image-question-answer triples.
+
+## Acknowledgements
+
+* [CLIP](https://openai.com/research/clip)
+* [LLaVA](https://github.com/haotian-liu/LLaVA)
+* [PyTorch](https://pytorch.org/)
+
 ## Install dependencies
 CUDA version: `CUDA 11.8`
 
