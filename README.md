@@ -102,3 +102,11 @@ visualize_attention(image_pth, image_log, cap, encoded_image_size=14, k=5)
 ```
 ![test_car_cat](assets/test_car_cat.jpg)
 ![Visualization](assets/image.png)
+
+## TODO
+- [ ] Write basic documentation (README, usage examples)
+- [ ] Write it as a package
+- [ ] Create `__init__.py` files
+- [ ] Publish to PyPI/TestPyPI
+- [ ] Write CHANGELOG.md
+- [ ] Add license (e.g., MIT)
